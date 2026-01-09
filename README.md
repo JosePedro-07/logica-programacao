@@ -1,2 +1,19 @@
-# logica-programacao
-Repositório dedicado a exercícios de lógica de programação, abordando conceitos fundamentais com Java e JavaScript.
+# Lógica de Programação
+
+Repositório dedicado a exercícios de lógica de programação,
+com foco na fixação de conceitos fundamentais utilizados
+no desenvolvimento de software.
+
+## 📌 Conteúdos abordados
+- Condicionais
+- Laços de repetição
+- Arrays
+- Funções
+
+## 🚀 Linguagens
+- Java
+- JavaScript
+
+## 📚 Objetivo
+Reforçar a base lógica necessária para o desenvolvimento
+de aplicações web e backend.
